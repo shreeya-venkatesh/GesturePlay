@@ -1,3 +1,4 @@
+
 # cmsc426-final-project
 
 ### Setup stuff
@@ -20,3 +21,5 @@
 
 ### Extra stuff: 
 1. easy mode (random), hard mode (based on stats of what the user has inputted)
+=======
+# GesturePlay
